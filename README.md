@@ -75,6 +75,6 @@
 ## Actividad
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Italo-NG&show_icons=true&hide_border=true&count_private=true&locale=es&title_color=7F52FF&icon_color=7F52FF" height="165" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Italo-NG&custom_title=Estad%C3%ADsticas%20de%20Italo&show_icons=true&hide_border=true&count_private=true&locale=es&title_color=7F52FF&icon_color=7F52FF" height="165" alt="Estadísticas de GitHub" />
   <img src="https://streak-stats.demolab.com?user=Italo-NG&hide_border=true&locale=es&ring=7F52FF&fire=7F52FF&currStreakLabel=7F52FF" height="165" alt="Racha de contribuciones" />
 </div>
