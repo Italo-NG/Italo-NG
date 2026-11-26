@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Italo Ninahuanca
+# Hola, soy Italo
 
 <a href="https://github.com/Italo-NG">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7F52FF&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+en+la+UPC;Asistentes+de+escritorio+con+Rust+y+TypeScript;Apps+Android+nativas+con+Kotlin;Servidores+MCP+en+Python" alt="Estudiante de Ingeniería de Software en la UPC" />
