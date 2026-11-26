@@ -16,7 +16,7 @@
 
 ## Sobre mí
 
-- Estudio Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, en Perú
+- Estudio Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas
 - Desarrollo proyectos de software de principio a fin, desde el diseño hasta el despliegue
 - Me interesa la inteligencia artificial y su aplicación en problemas reales
 
