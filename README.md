@@ -3,7 +3,7 @@
 # Hola, soy Italo
 
 <a href="https://github.com/Italo-NG">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7F52FF&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+en+la+UPC;Asistentes+de+escritorio+con+Rust+y+TypeScript;Apps+Android+nativas+con+Kotlin;Servidores+MCP+en+Python" alt="Estudiante de Ingeniería de Software en la UPC" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7F52FF&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+en+la+UPC;Desarrollo+proyectos+de+software;Inter%C3%A9s+en+inteligencia+artificial;Abierto+a+nuevas+oportunidades" alt="Estudiante de Ingeniería de Software en la UPC" />
 </a>
 
 <p>
@@ -17,8 +17,9 @@
 ## Sobre mí
 
 - Estudio Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, en Lima
-- Construyo asistentes de escritorio para Windows, apps Android nativas y servidores MCP
-- Me interesa llevar modelos de IA a herramientas que la gente usa todos los días
+- Desarrollo proyectos de software de principio a fin, desde el diseño hasta el despliegue
+- Me interesa la inteligencia artificial y su aplicación en problemas reales
+- Abierto a oportunidades laborales y prácticas preprofesionales
 
 ## Tecnologías
 
