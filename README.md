@@ -3,7 +3,7 @@
 # Hola, soy Italo
 
 <a href="https://github.com/Italo-NG">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7F52FF&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+en+la+UPC;Desarrollo+proyectos+de+software;Inter%C3%A9s+en+inteligencia+artificial;Abierto+a+nuevas+oportunidades" alt="Estudiante de Ingeniería de Software en la UPC" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7F52FF&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+en+la+UPC;Desarrollo+proyectos+de+software;Inter%C3%A9s+en+inteligencia+artificial" alt="Estudiante de Ingeniería de Software en la UPC" />
 </a>
 
 <p>
